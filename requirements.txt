@@ -1,1 +1,7 @@
 fastapi[all]
+uvicorn==0.24.0
+pdf2zh>=1.0.0
+requests==2.31.0
+python-multipart==0.0.6
+pydantic==2.5.2
+aiofiles==23.2.1
